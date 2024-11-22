@@ -11,3 +11,4 @@ npm i
 ```
 edit url for server socket.io in /client/index.html:288
 and you publish this project to cloudflare-page or hosting
+```
